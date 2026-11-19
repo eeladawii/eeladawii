@@ -10,7 +10,7 @@ I have 6+ years of experience building enterprise healthcare, claims, CRM, and i
 **Frontend:** React, TypeScript, Vite, Astro, Angular, Blazor  
 **Mobile:** React Native, Expo  
 **Databases:** SQL Server, T-SQL, PostgreSQL, MySQL, MongoDB  
-**Integration:** REST APIs, RabbitMQ, Azure Service Bus, GraphQL  
+**Integration:** REST APIs, webhooks, RabbitMQ, Azure Service Bus, GraphQL  
 **DevOps:** Azure, Azure DevOps, GitHub Actions, CI/CD, Docker, Cloudflare, Git  
 **Architecture:** Clean Architecture, DDD, Microservices, SOLID  
 **AI-assisted development:** GitHub Copilot, Codex, Claude
@@ -23,8 +23,8 @@ The source code for these projects is private.
 |---|---|---|---|
 | **TASS Academy Platform** (TASS UK) | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo | [Website](https://tassuk.uk/) · [CRM](https://tasscrm.tassuk.uk/) |
 | **Tourism Company CRM** | Modular bilingual (EN/AR, RTL) CRM for a tourism company: customers, leads and import, sales pipelines, quotations, targets and commissions, task planning | .NET 10, React + TypeScript, Playwright | [CRM](https://crm.jeddahtourismeg.com/) |
+| **Sor3a Delivery** | Food delivery platform: admin portal, restaurant portal, Android driver app, and a restaurant integration API (partner POS systems connect via client-credentials tokens and webhooks) | C# / .NET REST API, web portals, Android app | Coming soon |
 | **Growist** | Bilingual (AR/EN) agency website and admin CMS: static prerendered public site, approval-based publishing, verified backups | .NET 10 Clean Architecture API, PostgreSQL, Astro, React + TypeScript admin | Coming soon |
-| **Sor3a Delivery** | Food delivery platform with admin, restaurant, and driver apps sharing one API | C# / .NET API, web portals, Android driver app | Coming soon |
 | **El Genedy Dates** | Bilingual (EN/AR) e-commerce store: storefront, cart, checkout, orders, fulfillment | .NET 10 REST API, web + mobile, Docker, CI | Coming soon |
 | **Claim Transaction System** (DHS Arabia) | New version of a healthcare claims processing system | C#, ASP.NET Core, SQL Server | Internal |
 

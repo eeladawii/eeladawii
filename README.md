@@ -7,11 +7,11 @@ I have 6+ years of experience building enterprise healthcare, claims, CRM, and i
 ## 🛠️ Tech stack
 
 **Backend:** C#, .NET 8/9/10, ASP.NET Core Web API, EF Core, LINQ, ADO.NET  
-**Frontend:** React, TypeScript, Vite, Angular, Blazor  
+**Frontend:** React, TypeScript, Vite, Astro, Angular, Blazor  
 **Mobile:** React Native, Expo  
 **Databases:** SQL Server, T-SQL, PostgreSQL, MySQL, MongoDB  
 **Integration:** REST APIs, RabbitMQ, Azure Service Bus, GraphQL  
-**DevOps:** Azure, Azure DevOps, GitHub Actions, CI/CD, Docker, Git  
+**DevOps:** Azure, Azure DevOps, GitHub Actions, CI/CD, Docker, Cloudflare, Git  
 **Architecture:** Clean Architecture, DDD, Microservices, SOLID  
 **AI-assisted development:** GitHub Copilot, Codex, Claude
 
@@ -22,6 +22,7 @@ The source code for these projects is private.
 | Project | What it is | Stack |
 |---|---|---|
 | **TASS Academy Platform** (TASS UK) | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo |
+| **Growist** | Bilingual (AR/EN) agency website and admin CMS: static prerendered public site, approval-based publishing, verified backups | .NET 10 Clean Architecture API, PostgreSQL, Astro, React + TypeScript admin |
 | **Sor3a Delivery** | Food delivery platform with admin, restaurant, and driver apps sharing one API | C# / .NET API, web portals, Android driver app |
 | **El Genedy Dates** | Bilingual (EN/AR) e-commerce store: storefront, cart, checkout, orders, fulfillment | .NET 10 REST API, web + mobile, Docker, CI |
 | **Bilingual CRM** | Customer and lead management with data import | .NET 10, React + TypeScript |

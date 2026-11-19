@@ -19,14 +19,14 @@ I have 6+ years of experience building enterprise healthcare, claims, CRM, and i
 
 The source code for these projects is private.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **TASS Academy Platform** (TASS UK) | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo |
-| **Growist** | Bilingual (AR/EN) agency website and admin CMS: static prerendered public site, approval-based publishing, verified backups | .NET 10 Clean Architecture API, PostgreSQL, Astro, React + TypeScript admin |
-| **Sor3a Delivery** | Food delivery platform with admin, restaurant, and driver apps sharing one API | C# / .NET API, web portals, Android driver app |
-| **El Genedy Dates** | Bilingual (EN/AR) e-commerce store: storefront, cart, checkout, orders, fulfillment | .NET 10 REST API, web + mobile, Docker, CI |
-| **Bilingual CRM** | Customer and lead management with data import | .NET 10, React + TypeScript |
-| **Claim Transaction System** (DHS Arabia) | New version of a healthcare claims processing system | C#, ASP.NET Core, SQL Server |
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **TASS Academy Platform** (TASS UK) | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo | [Website](https://tassuk.uk/) · [CRM](https://tasscrm.tassuk.uk/) |
+| **Tourism Company CRM** | Modular bilingual (EN/AR, RTL) CRM for a tourism company: customers, leads and import, sales pipelines, quotations, targets and commissions, task planning | .NET 10, React + TypeScript, Playwright | [CRM](https://crm.jeddahtourismeg.com/) |
+| **Growist** | Bilingual (AR/EN) agency website and admin CMS: static prerendered public site, approval-based publishing, verified backups | .NET 10 Clean Architecture API, PostgreSQL, Astro, React + TypeScript admin | Coming soon |
+| **Sor3a Delivery** | Food delivery platform with admin, restaurant, and driver apps sharing one API | C# / .NET API, web portals, Android driver app | Coming soon |
+| **El Genedy Dates** | Bilingual (EN/AR) e-commerce store: storefront, cart, checkout, orders, fulfillment | .NET 10 REST API, web + mobile, Docker, CI | Coming soon |
+| **Claim Transaction System** (DHS Arabia) | New version of a healthcare claims processing system | C#, ASP.NET Core, SQL Server | Internal |
 
 ## 💼 Experience
 

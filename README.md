@@ -6,7 +6,7 @@ I have 6+ years of experience building enterprise healthcare, claims, CRM, and i
 
 ## 🛠️ Tech stack
 
-**Backend:** C#, .NET 8/9/10, ASP.NET Core Web API, EF Core, LINQ  
+**Backend:** C#, .NET 8/9/10, ASP.NET Core Web API, EF Core, LINQ, ADO.NET  
 **Frontend:** React, TypeScript, Vite, Angular, Blazor  
 **Mobile:** React Native, Expo  
 **Databases:** SQL Server, T-SQL, PostgreSQL, MySQL, MongoDB  
@@ -21,7 +21,7 @@ The source code for these projects is private.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TASS Academy Platform** | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo |
+| **TASS Academy Platform** (TASS UK) | Rewrite of an education platform into a web app, a published mobile app (Google Play), and a back-office CRM | .NET 10 Clean Architecture API, React + TypeScript, Expo |
 | **Sor3a Delivery** | Food delivery platform with admin, restaurant, and driver apps sharing one API | C# / .NET API, web portals, Android driver app |
 | **El Genedy Dates** | Bilingual (EN/AR) e-commerce store: storefront, cart, checkout, orders, fulfillment | .NET 10 REST API, web + mobile, Docker, CI |
 | **Bilingual CRM** | Customer and lead management with data import | .NET 10, React + TypeScript |
@@ -29,11 +29,12 @@ The source code for these projects is private.
 
 ## 💼 Experience
 
-**Senior Software Developer, DHS Arabia** (2020 to 2026): healthcare claims, CRM portals, provider/vendor integrations, and a transaction data warehouse.
+**Senior Software Developer, DHS Arabia** (2020 to 2026): healthcare claims, CRM portals, provider/vendor integrations, and a transaction data warehouse.  
+**Senior Software Developer (part-time), TASS UK** (2023 to 2025): rewrite of the TASS Academy platform: .NET 10 API, React web app, React Native mobile app, and CRM.
 
 ## 🎓 Education
 
-Master's in Computer & Information Sciences, Mansoura University · ITI Diploma
+Pre-PhD and Master's in Computer & Information Sciences, Mansoura University · ITI Diploma
 
 ## 📫 Contact
 
